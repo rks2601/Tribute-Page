@@ -1,4 +1,4 @@
-![Screenshot (1304)](https://github.com/rks2601/Tribute-Page/assets/122681297/bade79a9-cebd-4357-a0f2-7d318ee6ac7e)# Introduction
+# Introduction
 This project is a tribute page dedicated to the memory of the late Sushant Singh Rajput. It aims to celebrate his life, achievements, and contributions to the film industry. The web page provides a platform for fans and well-wishers to pay tribute to the talented actor.
 
 # Features
